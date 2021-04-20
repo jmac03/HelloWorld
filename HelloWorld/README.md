@@ -8,9 +8,9 @@ This is a simple Hello World program. I made this program to demonstrate integra
 
 # Development Environment
 
-*Python 3.8.5 32-bit
-*GitHub/git
-*Visual Studio Code
+* Python 3.8.5 32-bit
+* GitHub/git
+* Visual Studio Code
 
 # Useful Websites
 
